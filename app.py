@@ -42,7 +42,7 @@ def predict():
     if output < 0:
         return render_template('wholesale.html', prediction_text = "Predicted Price is negative, values entered not reasonable")
     elif output >= 0:
-        return render_template('wholesale.html', prediction_text = 'Predicted cluster  is : ${}'.format(output))   
+        return render_template('wholesale.html', prediction_text = 'Predicted cluster  is : {}'.format(output))   
 
 #Run app
 if __name__ == "__main__":
