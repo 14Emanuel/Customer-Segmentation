@@ -19,7 +19,7 @@ Press the Predict button
 The Output button will show you the predicted Customer Segment
 ## Tech Stack
 
-**Data Science:** Python, KMeans, Pandas and Numpy, Matplotlib and Seaborn,
+**Data Science:** Python, KMeans, Pandas and Numpy, Matplotlib and Seaborn, Jupyter notebooks
 
 **Website UI:** HTML, CSS
 
