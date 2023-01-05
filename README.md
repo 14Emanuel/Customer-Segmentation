@@ -4,7 +4,7 @@
 This project will be solving an unsupervised Machine Learning Problem. Wholesalers deals with a large variety of products and high number of customers. In order for their marketing team to run targeted customer advertisement; they need the help of a Data Scientist. I am going to solve their problem by building a clustering model. The model is going to cluster customers and segement them according to the products they purchase on a regular basis. With the application inplace the marketing team will now be able to recommend the right product to its customers during advertisement. This practise will enhance customer retention, brand identity and improved Channel of Distribution.
 ## DEMONSTRATION
 
-Link the to the Web Application: https://wholesale-segmentation.herokuapp.com/
+Link the to the Web Application: https://customer-segmentation-production.up.railway.app/
 
 
 
@@ -25,7 +25,7 @@ The Output button will show you the predicted Customer Segment
 
 **Website Backend:** Python Flask Framework
 
-**Cloud Application Platform:** Heroku Cloud Platform
+**Host:** Railway
 
 
 
